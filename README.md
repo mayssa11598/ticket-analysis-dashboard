@@ -94,7 +94,9 @@ Il m'a permis de mettre en pratique des compétences en :
 * création d'interfaces graphiques ;
 * automatisation de rapports ;
 * export de données et de visualisations.
+  
 Pour des raisons de sécurité et de confidentialité des données, certains fichiers utilisés durant le projet ne sont pas inclus dans ce dépôt GitHub.
+
 ## 👨‍💻 Auteur
 
 **Mayssa Ahmed**
