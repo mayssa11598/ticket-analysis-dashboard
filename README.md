@@ -4,6 +4,15 @@ Application Python interactive développée dans le cadre d'un **stage d'été �
 
 L'objectif du projet est de faciliter l'analyse et la visualisation des tickets de support à travers une interface interactive permettant d'explorer différentes catégories de données et de générer des rapports.
 
+## 📸 Aperçu du dashboard
+
+Voici un aperçu de l'interface du dashboard développé en Python pour l'analyse et la visualisation des tickets.
+
+> *Les informations visibles dans la capture ont été anonymisées afin de préserver la confidentialité des données utilisées durant le projet.*
+
+![Aperçu du dashboard](images/dashboard.png)
+
+
 ## 🎯 Objectifs du projet
 
 L'application permet de :
