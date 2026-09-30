@@ -32,7 +32,7 @@ L'application permet de :
 L'application propose trois types de visualisations :
 
 * 📊 **Graphique à barres**
-* 🥧 **Graphique circulaire**
+* ⭕ **Graphique circulaire**
 * 📈 **Graphique en courbe**
 
 Les visualisations peuvent être filtrées selon la période sélectionnée et la catégorie d'analyse.
