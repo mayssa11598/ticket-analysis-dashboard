@@ -10,7 +10,7 @@ Voici un aperçu de l'interface du dashboard développé en Python pour l'analys
 
 > *Les informations visibles dans la capture ont été anonymisées afin de préserver la confidentialité des données utilisées durant le projet.*
 
-![Aperçu du dashboard](images/dashboard.png)
+![Aperçu du dashboard](images/dashboard.jpg)
 
 
 ## 🎯 Objectifs du projet
@@ -76,7 +76,9 @@ Les différentes visualisations peuvent également être exportées dans un fich
 ticket-analysis-dashboard/
 │
 ├── analyse_tickets.py
-└── README.md
+├── README.md
+└── images/
+    └── dashboard.png
 ```
 
 ## 🎓 Contexte
